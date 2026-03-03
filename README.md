@@ -3,5 +3,5 @@
 
 
 
-Run this in terminal while no installed the opencv, numpy, matplotlib
+Run this in terminal if no installed the opencv, numpy, matplotlib
 py -m pip install numpy opencv-python matplotlib
